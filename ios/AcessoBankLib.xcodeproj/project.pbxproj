@@ -15,21 +15,35 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* AcessoBankLibTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AcessoBankLibTests.m */; };
-		77BDED3025D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2825D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf */; };
-		77BDED3225D5B0530059AD59 /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2925D5B0530059AD59 /* DINRoundPro-Medium.otf */; };
-		77BDED3425D5B0530059AD59 /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2A25D5B0530059AD59 /* DINRoundPro-Bold.otf */; };
-		77BDED3625D5B0530059AD59 /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2B25D5B0530059AD59 /* DINRoundPro.otf */; };
-		77BDED3825D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2C25D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf */; };
-		77BDED3A25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2D25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf */; };
-		77BDED3C25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2E25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf */; };
+		7777270B25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */; };
+		7777270C25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */; };
+		7777270D25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */; };
+		7777270E25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */; };
+		7777270F25D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */; };
+		7777271025D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */; };
+		7777271125D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */; };
+		7777271225D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */; };
+		7777271325D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */; };
+		7777271425D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */; };
+		7777271525D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */; };
+		7777271625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */; };
+		7777271725D5BD7700FC411C /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */; };
+		7777271825D5BD7700FC411C /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */; };
+		7777271925D5BD7800FC411C /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */; };
+		7777271A25D5BD7800FC411C /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */; };
+		7777271B25D5BD7800FC411C /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270825D5BD7700FC411C /* DINRoundPro.otf */; };
+		7777271C25D5BD7800FC411C /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270825D5BD7700FC411C /* DINRoundPro.otf */; };
+		7777271D25D5BD7800FC411C /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270825D5BD7700FC411C /* DINRoundPro.otf */; };
+		7777271E25D5BD7800FC411C /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270825D5BD7700FC411C /* DINRoundPro.otf */; };
+		7777271F25D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */; };
+		7777272025D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */; };
+		7777272125D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */; };
+		7777272225D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */; };
+		7777272325D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */; };
+		7777272425D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */; };
+		7777272525D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */; };
+		7777272625D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */; };
 		77BDED4925D5B0D10059AD59 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		77BDED5625D5B0E30059AD59 /* DINRoundPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2A25D5B0530059AD59 /* DINRoundPro-Bold.otf */; };
-		77BDED5725D5B0E30059AD59 /* DINRoundPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2925D5B0530059AD59 /* DINRoundPro-Medium.otf */; };
-		77BDED5825D5B0E30059AD59 /* DINRoundPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2B25D5B0530059AD59 /* DINRoundPro.otf */; };
-		77BDED5925D5B0E30059AD59 /* FontAwesome5_Pro_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2C25D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf */; };
-		77BDED5A25D5B0E30059AD59 /* FontAwesome5_Pro_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2E25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf */; };
-		77BDED5B25D5B0E30059AD59 /* FontAwesome5_Pro_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2825D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf */; };
-		77BDED5C25D5B0E30059AD59 /* FontAwesome5_Pro_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77BDED2D25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		ABE5B838FF0C53111C5EDF05 /* libPods-AcessoBankLib-AcessoBankLibTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA3E95866D43DFFE7BF5FA40 /* libPods-AcessoBankLib-AcessoBankLibTests.a */; };
 /* End PBXBuildFile section */
@@ -67,13 +81,13 @@
 		57FD15D39BAA08B9D1043C71 /* libPods-AcessoBankLib.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AcessoBankLib.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6072A251FC8BB4DB64370FAC /* Pods-AcessoBankLib.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcessoBankLib.debug.xcconfig"; path = "Target Support Files/Pods-AcessoBankLib/Pods-AcessoBankLib.debug.xcconfig"; sourceTree = "<group>"; };
 		6F4A4603C09405D7A067E8A5 /* Pods-AcessoBankLib.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcessoBankLib.release.xcconfig"; path = "Target Support Files/Pods-AcessoBankLib/Pods-AcessoBankLib.release.xcconfig"; sourceTree = "<group>"; };
-		77BDED2825D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Regular.ttf; path = ../../src/assets/fonts/FontAwesome5_Pro_Regular.ttf; sourceTree = "<group>"; };
-		77BDED2925D5B0530059AD59 /* DINRoundPro-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DINRoundPro-Medium.otf"; path = "../../src/assets/fonts/DINRoundPro-Medium.otf"; sourceTree = "<group>"; };
-		77BDED2A25D5B0530059AD59 /* DINRoundPro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DINRoundPro-Bold.otf"; path = "../../src/assets/fonts/DINRoundPro-Bold.otf"; sourceTree = "<group>"; };
-		77BDED2B25D5B0530059AD59 /* DINRoundPro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = DINRoundPro.otf; path = ../../src/assets/fonts/DINRoundPro.otf; sourceTree = "<group>"; };
-		77BDED2C25D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Brands.ttf; path = ../../src/assets/fonts/FontAwesome5_Pro_Brands.ttf; sourceTree = "<group>"; };
-		77BDED2D25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Solid.ttf; path = ../../src/assets/fonts/FontAwesome5_Pro_Solid.ttf; sourceTree = "<group>"; };
-		77BDED2E25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Light.ttf; path = ../../src/assets/fonts/FontAwesome5_Pro_Light.ttf; sourceTree = "<group>"; };
+		7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Regular.ttf; path = ../src/assets/fonts/FontAwesome5_Pro_Regular.ttf; sourceTree = "<group>"; };
+		7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Solid.ttf; path = ../src/assets/fonts/FontAwesome5_Pro_Solid.ttf; sourceTree = "<group>"; };
+		7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Brands.ttf; path = ../src/assets/fonts/FontAwesome5_Pro_Brands.ttf; sourceTree = "<group>"; };
+		7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DINRoundPro-Bold.otf"; path = "../src/assets/fonts/DINRoundPro-Bold.otf"; sourceTree = "<group>"; };
+		7777270825D5BD7700FC411C /* DINRoundPro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = DINRoundPro.otf; path = ../src/assets/fonts/DINRoundPro.otf; sourceTree = "<group>"; };
+		7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Pro_Light.ttf; path = ../src/assets/fonts/FontAwesome5_Pro_Light.ttf; sourceTree = "<group>"; };
+		7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "DINRoundPro-Medium.otf"; path = "../src/assets/fonts/DINRoundPro-Medium.otf"; sourceTree = "<group>"; };
 		78F54B0AAF000DC6D1831B22 /* Pods-AcessoBankLib-AcessoBankLibTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcessoBankLib-AcessoBankLibTests.debug.xcconfig"; path = "Target Support Files/Pods-AcessoBankLib-AcessoBankLibTests/Pods-AcessoBankLib-AcessoBankLibTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AcessoBankLib/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A253B33111F11A5598985ECE /* Pods-AcessoBankLib-AcessoBankLibTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AcessoBankLib-AcessoBankLibTests.release.xcconfig"; path = "Target Support Files/Pods-AcessoBankLib-AcessoBankLibTests/Pods-AcessoBankLib-AcessoBankLibTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -158,18 +172,18 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		77BDED2325D5B0060059AD59 /* Resources */ = {
+		7777270325D5BD5200FC411C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				77BDED2A25D5B0530059AD59 /* DINRoundPro-Bold.otf */,
-				77BDED2925D5B0530059AD59 /* DINRoundPro-Medium.otf */,
-				77BDED2B25D5B0530059AD59 /* DINRoundPro.otf */,
-				77BDED2C25D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf */,
-				77BDED2E25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf */,
-				77BDED2825D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf */,
-				77BDED2D25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf */,
+				7777270725D5BD7700FC411C /* DINRoundPro-Bold.otf */,
+				7777270A25D5BD7700FC411C /* DINRoundPro-Medium.otf */,
+				7777270825D5BD7700FC411C /* DINRoundPro.otf */,
+				7777270625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf */,
+				7777270925D5BD7700FC411C /* FontAwesome5_Pro_Light.ttf */,
+				7777270425D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf */,
+				7777270525D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf */,
 			);
-			path = Resources;
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -182,7 +196,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				77BDED2325D5B0060059AD59 /* Resources */,
+				7777270325D5BD5200FC411C /* Resources */,
 				13B07FAE1A68108700A75B9A /* AcessoBankLib */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* AcessoBankLibTests */,
@@ -350,13 +364,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77BDED3025D5B0530059AD59 /* FontAwesome5_Pro_Regular.ttf in Resources */,
-				77BDED3425D5B0530059AD59 /* DINRoundPro-Bold.otf in Resources */,
-				77BDED3825D5B0530059AD59 /* FontAwesome5_Pro_Brands.ttf in Resources */,
-				77BDED3625D5B0530059AD59 /* DINRoundPro.otf in Resources */,
-				77BDED3225D5B0530059AD59 /* DINRoundPro-Medium.otf in Resources */,
-				77BDED3C25D5B0530059AD59 /* FontAwesome5_Pro_Light.ttf in Resources */,
-				77BDED3A25D5B0530059AD59 /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777272025D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */,
+				7777272425D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */,
+				7777270C25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */,
+				7777271825D5BD7700FC411C /* DINRoundPro-Bold.otf in Resources */,
+				7777271025D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777271425D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */,
+				7777271C25D5BD7800FC411C /* DINRoundPro.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,14 +378,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77BDED5625D5B0E30059AD59 /* DINRoundPro-Bold.otf in Resources */,
-				77BDED5725D5B0E30059AD59 /* DINRoundPro-Medium.otf in Resources */,
-				77BDED5825D5B0E30059AD59 /* DINRoundPro.otf in Resources */,
-				77BDED5925D5B0E30059AD59 /* FontAwesome5_Pro_Brands.ttf in Resources */,
-				77BDED5A25D5B0E30059AD59 /* FontAwesome5_Pro_Light.ttf in Resources */,
-				77BDED5B25D5B0E30059AD59 /* FontAwesome5_Pro_Regular.ttf in Resources */,
-				77BDED5C25D5B0E30059AD59 /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777270B25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */,
+				7777271725D5BD7700FC411C /* DINRoundPro-Bold.otf in Resources */,
+				7777271F25D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */,
+				7777270F25D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777271325D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */,
+				7777272325D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */,
 				77BDED4925D5B0D10059AD59 /* Images.xcassets in Resources */,
+				7777271B25D5BD7800FC411C /* DINRoundPro.otf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -380,7 +394,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7777271D25D5BD7800FC411C /* DINRoundPro.otf in Resources */,
+				7777270D25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */,
+				7777271925D5BD7800FC411C /* DINRoundPro-Bold.otf in Resources */,
+				7777271525D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */,
 				2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */,
+				7777272125D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */,
+				7777271125D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777272525D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -388,6 +409,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7777272225D5BD7800FC411C /* FontAwesome5_Pro_Light.ttf in Resources */,
+				7777272625D5BD7800FC411C /* DINRoundPro-Medium.otf in Resources */,
+				7777270E25D5BD7700FC411C /* FontAwesome5_Pro_Regular.ttf in Resources */,
+				7777271A25D5BD7800FC411C /* DINRoundPro-Bold.otf in Resources */,
+				7777271225D5BD7700FC411C /* FontAwesome5_Pro_Solid.ttf in Resources */,
+				7777271625D5BD7700FC411C /* FontAwesome5_Pro_Brands.ttf in Resources */,
+				7777271E25D5BD7800FC411C /* DINRoundPro.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
