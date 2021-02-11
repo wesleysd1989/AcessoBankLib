@@ -1,31 +1,29 @@
 {
-  "name": "@acesso/lib",
-  "version": "0.0.1",
+  "name": "acesso-bank-library",
+  "version": "0.0.24",
   "private": false,
-  "author": {
-    "email": "wdias@acesso.com",
-    "name": "Wesley Dias"
-  },
-  "react-native": "index",
-  "main": "dist/index.js",
+  "license": "MIT",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "build": "rm -rf ./dist && rollup -c --preserveModules",
+    "publicRelease": "npm run preRelease && npm run release && npm run posRelease",
+    "preRelease": "cp README.md ./lib && cp package.json ./lib",
+    "release": "cd lib && npm publish",
+    "posRelease": "rm -rf lib/package.json && rm -rf lib/README.md",
     "start:clean": "react-native start --reset-cache",
     "clean": "yarn clean:android && yarn clean:ios && rm -rf node_modules",
     "clean:android": "rm -rf android/app/build && rm -rf android/build && rm -rf android/.gradle && rm -rf android/build.gradle-e",
     "clean:ios": "rm -rf ios/build && rm -rf ios/Pods && rm -rf ios/AcessoBankLib.xcworkspace"
   },
   "files": [
-    "dist/_virtual",
-    "dist/components",
-    "dist/constants",
-    "dist/index.js",
-    "README.md"
+    "components",
+    "constants",
+    "index.js",
+    "README.md",
+    "package.json"
   ],
   "readmeFilename": "README.md",
   "dependencies": {
