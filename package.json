@@ -1,6 +1,6 @@
 {
   "name": "acesso-bank-library",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "private": false,
   "license": "MIT",
   "scripts": {
@@ -35,13 +35,42 @@
     "@babel/core": "^7.8.4",
     "@babel/runtime": "^7.8.4",
     "@react-native-community/eslint-config": "^1.1.0",
+    "@types/jest": "^24.8.0",
     "babel-jest": "^25.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
+    "react-dom": "^17.0.1",
     "react-test-renderer": "16.13.1"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "timers": "fake",
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "setupFiles": [
+      "<rootDir>/jest.setup.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/__mocks__/mock-modules.js"
+    ],
+    "testMatch": [
+      "**/__tests__/**/*.test.js"
+    ],
+    "coverageDirectory": "__tests__/coverage",
+    "moduleNameMapper": {
+      "^~/(.*)": "<rootDir>/lib/$1"
+    },
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "jsx",
+      "node"
+    ],
+    "collectCoverage": true,
+    "testEnvironment": "node"
   }
 }

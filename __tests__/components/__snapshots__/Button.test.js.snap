@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Deve ocorrer um match entre o componente Button e seu snapshot quando são passados valores padrões. 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00A074",
+        "justifyContent": "center",
+        "minHeight": 60,
+      },
+    ]
+  }
+>
+  <Text
+    disabled={false}
+    numberOfLines={1}
+    style={
+      Array [
+        Object {
+          "color": "#FFF",
+          "fontFamily": "DINRoundPro-Medium",
+          "fontSize": 18,
+          "letterSpacing": -0.4,
+          "textAlign": "center",
+        },
+      ]
+    }
+    type="primary"
+  >
+    Test
+  </Text>
+</View>
+`;
